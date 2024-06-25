@@ -1,5 +1,5 @@
 {
-  "name": "idavoll/tag-module",
+  "name": "sirval/tag-module",
   "description": "Tag management in AsgardCMS",
   "type": "asgard-module",
   "license": "MIT",
